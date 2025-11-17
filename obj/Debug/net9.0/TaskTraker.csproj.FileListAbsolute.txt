@@ -1,0 +1,14 @@
+/Users/mac/TaskTraker/bin/Debug/net9.0/TaskTraker
+/Users/mac/TaskTraker/bin/Debug/net9.0/TaskTraker.deps.json
+/Users/mac/TaskTraker/bin/Debug/net9.0/TaskTraker.runtimeconfig.json
+/Users/mac/TaskTraker/bin/Debug/net9.0/TaskTraker.dll
+/Users/mac/TaskTraker/bin/Debug/net9.0/TaskTraker.pdb
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.AssemblyInfoInputs.cache
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.AssemblyInfo.cs
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.csproj.CoreCompileInputs.cache
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.dll
+/Users/mac/TaskTraker/obj/Debug/net9.0/refint/TaskTraker.dll
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.pdb
+/Users/mac/TaskTraker/obj/Debug/net9.0/TaskTraker.genruntimeconfig.cache
+/Users/mac/TaskTraker/obj/Debug/net9.0/ref/TaskTraker.dll
